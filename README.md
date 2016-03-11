@@ -1,1 +1,1 @@
-# Python-askhseis Uparxei ena mikro lathos sto circles.py h metablhth kukloi prepei na mpei ligo poio mesa se ola ta if statment gt bgazei problhma psaxnw na brw tropw na to diwrthwsw
+# Python-askhseis Yphrxe ena lathos sto circles.py me thn metablhth kukloi to 2 arxeio pou anebasa einai to swsto signwmh alla to ktlv ligo prin kimithw
